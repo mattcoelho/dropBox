@@ -484,6 +484,7 @@
 				CA70B4F01BC70F2D00E33316 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		CA70B4F11BC70F2D00E33316 /* Build configuration list for PBXNativeTarget "dropBoxTests" */ = {
 			isa = XCConfigurationList;
@@ -492,6 +493,7 @@
 				CA70B4F31BC70F2D00E33316 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		CA70B4F41BC70F2D00E33316 /* Build configuration list for PBXNativeTarget "dropBoxUITests" */ = {
 			isa = XCConfigurationList;
@@ -500,6 +502,7 @@
 				CA70B4F61BC70F2D00E33316 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

@@ -157,10 +157,10 @@
             </objects>
             <point key="canvasLocation" x="2372" y="128"/>
         </scene>
-        <!--View Controller-->
+        <!--Sign In View Controller-->
         <scene sceneID="ETE-FV-PRN">
             <objects>
-                <viewController id="kf3-O8-kEg" sceneMemberID="viewController">
+                <viewController id="kf3-O8-kEg" customClass="SignInViewController" customModule="dropBox" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="JY6-CM-j5N">
                         <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>

@@ -11,3 +11,5 @@ Time spent: 6 hours total
  * [x] Required: User can follow the sign in flow.
  * [x] Required: User can tap the area for "Having trouble signing in?"
  * [x] Required: User can log out from the Settings screen.
+
+![Video Walkthrough]()

@@ -12,4 +12,4 @@ Time spent: 6 hours total
  * [x] Required: User can tap the area for "Having trouble signing in?"
  * [x] Required: User can log out from the Settings screen.
 
-![Video Walkthrough]()
+![Video Walkthrough](matt_dropbox.gif)

@@ -1,21 +1,19 @@
 //
-//  SignInViewController.swift
+//  CreateAccuntViewController.swift
 //  dropBox
 //
-//  Created by Teus on 10/9/15.
+//  Created by Teus on 10/10/15.
 //  Copyright © 2015 Teus. All rights reserved.
 //
 
 import UIKit
 
-class SignInViewController: UIViewController {
+class CreateAccuntViewController: UIViewController {
 
-    @IBAction func backButton(sender: AnyObject) {
-        navigationController!.popViewControllerAnimated(true)
+    @IBAction func backButton(sender: AnyObject) {navigationController!.popViewControllerAnimated(true)
     }
     override func viewDidLoad() {
         super.viewDidLoad()
-    
 
         // Do any additional setup after loading the view.
     }

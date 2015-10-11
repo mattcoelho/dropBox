@@ -1,5 +1,5 @@
 //
-//  SignInViewController.swift
+//  SignOutViewController.swift
 //  dropBox
 //
 //  Created by Teus on 10/9/15.
@@ -8,14 +8,11 @@
 
 import UIKit
 
-class SignInViewController: UIViewController {
+class SignOutViewController: UIViewController {
 
-    @IBAction func backButton(sender: AnyObject) {
-        navigationController!.popViewControllerAnimated(true)
-    }
     override func viewDidLoad() {
         super.viewDidLoad()
-    
+        performSegueWithIdentifier("signInSegue", sender: self)
 
         // Do any additional setup after loading the view.
     }

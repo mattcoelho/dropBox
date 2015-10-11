@@ -1,6 +1,6 @@
 # dropBox Demo
 
-Time spent: 6 hours total
+Time spent: 8 hours total
 
  * [x] Required: User can tap through the 3 welcome screens.
  * [x] Required: User can follow the create user flow.
